@@ -1,0 +1,11 @@
+{
+  "name": "retomando",
+  "version": "1.0.0",
+  "description": "proyecto desde cero con Frey",
+  "main": "fibo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angie Carolina",
+  "license": "ISC"
+}
